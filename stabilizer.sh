@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Shell Stabilizer v.20220810
-# Requires xdotool and ruby-notify packages
+# Requires xdotool
 # You're welcome. -EtcSec
 
 # To Do List:
